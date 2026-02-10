@@ -21,9 +21,6 @@ Primary interests include:
 
 ---
 
-
----
-
 ## Featured Projects
 
 Projects showcased on the website include:
@@ -39,9 +36,10 @@ linked directly from the website.
 ## Tools & Methods
 
 - Programming: Python, R
+- Software: SPSS, Eviews, Minitab
 - Data handling: Excel, SQL
 - Statistical methods: Regression, Time Series Analysis, Risk Modeling, Categorical Data Analysis
-- Visualization: Matplotlib, ggplot2
+- Visualization: Tableau, Power BI, Matplotlib, ggplot2
 
 ---
 
