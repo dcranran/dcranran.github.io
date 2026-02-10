@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website, buil
 The website presents selected data and statistics projects, with a focus on analytical reasoning,
 statistical methodology, and data-driven insights.
 
-🔗 Website: https://dwicahyanurani.com
+🔗 Website: https://dcranran.github.io
 
 ---
 
